@@ -66,7 +66,7 @@ def check_word(guessed_word):                           # Function checks total 
 
 
 def main():
-    print("Word is of length:",len(word),word)
+    print("Word is of length:",len(word))
     check_guess(word)
 
 
